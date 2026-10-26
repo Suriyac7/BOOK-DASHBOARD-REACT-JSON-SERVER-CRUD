@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(219, 244, 235);
+}
+
+.view-page {
+    margin-left: 13%;
+    margin-top: 10px;
+    border-radius: 20px;
+}
+.add-page{
+    margin-left: 25%;
+    margin-top: 6%;
+    border-radius: 7px;
+}
+
+.heading {
+    border-radius: 10px;
+}
+
+.table-heading {
+    border-radius: 10px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+}

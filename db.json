@@ -1,0 +1,82 @@
+{
+  "books": [
+    {
+      "bookId": 1001,
+      "bookname": "Ponniyin Selvan",
+      "author": "Kalki",
+      "imgurl": "http://m.media-amazon.com/images/I/71TSIOCxUhL._SL1360_.jpg",
+      "category": "fiction",
+      "gendra": "history, drama",
+      "price": 299,
+      "stockcount": 79,
+      "id": "X2Gn9DqoQtM"
+    },
+    {
+      "bookId": 1002,
+      "bookname": "Thirukkural",
+      "author": "Thiruvalluvar",
+      "imgurl": "https://m.media-amazon.com/images/I/715VigHwi-L._SY466_.jpg",
+      "category": "non-fiction",
+      "gendra": "ethics, philosophy",
+      "price": 499,
+      "stockcount": 49,
+      "id": "-58CmlchIVM"
+    },
+    {
+      "bookId": 1003,
+      "bookname": "Wings of Fire",
+      "author": "A. P. J. Abdul Kalam",
+      "imgurl": "https://m.media-amazon.com/images/I/71KKZlVjbwL._SY466_.jpg",
+      "category": "autobiography",
+      "gendra": "autobiography, inspirational",
+      "price": 399,
+      "stockcount": 40,
+      "id": "pEKcqT8Onq8"
+    },
+    {
+      "bookId": 1004,
+      "bookname": "The Alchemist",
+      "author": "Paulo Coelho",
+      "imgurl": "https://placehold.co/300x400?text=The+Alchemist",
+      "category": "fiction",
+      "gendra": "adventure, philosophy",
+      "price": 299,
+      "stockcount": 35,
+      "id": "D3cvUilLgko"
+    },
+    {
+      "bookId": 1005,
+      "bookname": "Atomic Habits",
+      "author": "James Clear",
+      "imgurl": "https://placehold.co/300x400?text=Atomic+Habits",
+      "category": "non-fiction",
+      "gendra": "psychology",
+      "price": 599,
+      "stockcount": 25,
+      "id": "aC_Y-jDNdYE"
+    },
+    {
+      "bookId": 1006,
+      "bookname": "Ponniyin Selvan",
+      "author": "Kalki Krishnamurthy",
+      "imgurl": "https://m.media-amazon.com/images/I/81jVh8qQYBL._SY466_.jpg",
+      "category": "fiction",
+      "gendra": "historical fiction, adventure",
+      "price": 599,
+      "stockcount": 30,
+      "id": "z3UOML06c4Y"
+    },
+    {
+      "bookId": 1007,
+      "bookname": "The Guide",
+      "author": "R. K. Narayan",
+      "imgurl": "https://placehold.co/300x400?text=The+Guide",
+      "category": "fiction",
+      "gendra": "drama, romance",
+      "price": 399,
+      "stockcount": 30,
+      "id": "nVfnHCNRqaM"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
